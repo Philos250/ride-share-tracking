@@ -1,0 +1,16 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-image: linear-gradient(to right, #5de2d7, #7ada5c);
+    color: white;
+    /*position: absolute;*/
+    bottom: 0;
+    /*width: auto;*/
+  }
+  
+  .footer span {
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
