@@ -37,6 +37,10 @@ npm start
 
 This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
 
+# GIVEN FIGMA UI DESIGN
+
+![Screenshot 2024-04-28 123928](https://github.com/Philos250/ride-share-tracking/assets/32220586/55486adc-a82b-4e75-9375-c2d35f316aa1)
+
 # Testing
 
 - Ensure your application is functioning correctly by checking if all endpoints are responsive and if the UI aligns with the Figma design provided.
@@ -45,9 +49,9 @@ This will run the app in development mode. Open http://localhost:3000 to view it
 
 - Contributions are welcome! Please read the contributing guidelines on how to propose bugfixes, improvements, and scalability features.
 
-# Notes
+# UI DESIGN
 
-- The application’s UI should closely match the provided Figma design screenshot.
-![Screenshot 2024-04-29 153247](https://github.com/Philos250/ride-share-tracking/assets/32220586/f67d832e-ead4-46a4-99c9-6929f001d22e)
-![Screenshot 2024-04-29 153328](https://github.com/Philos250/ride-share-tracking/assets/32220586/c5d9626a-b7b8-4164-8a7a-bb4ade2996eb)
-![Screenshot 2024-04-28 123928](https://github.com/Philos250/ride-share-tracking/assets/32220586/82e53c01-4764-40a8-843d-a43252351dc0)
+![Screenshot 2024-04-29 172056](https://github.com/Philos250/ride-share-tracking/assets/32220586/33ecf58c-3d86-42c7-bcaa-67279ad6d6a5)
+![Screenshot 2024-04-29 171919](https://github.com/Philos250/ride-share-tracking/assets/32220586/60ba0575-c368-476a-89d9-8b0bc4db44ce)
+![Screenshot 2024-04-29 171951](https://github.com/Philos250/ride-share-tracking/assets/32220586/6fd2c00d-84d5-4d57-870b-4779748cb96e)
+![Screenshot 2024-04-29 172026](https://github.com/Philos250/ride-share-tracking/assets/32220586/7c13c254-df1c-4455-a93b-7331278b2141)
